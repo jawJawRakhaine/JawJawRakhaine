@@ -15,15 +15,15 @@
 
 - 🤝 I’m looking for help with **Web Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/jawjawrakhaine](https://github.com/jawjawrakhaine)
+- 👨‍💻 All of my projects are available at [GITHUB] |(https://github.com/jawjawrakhaine)
 
-- 📝 I regularly write articles on [https://l.facebook.com/l.php?u=https%3A%2F%2Fjawjawrakhaine.blogspot.com%2F%3Ffbclid%3DIwAR1Kpp74upSPEiKmRhcbNhi1fZ3zgOizmAlMOA219kPX2QoDF3nYY__OPpM&h=AT2grPnOMSeSd0Uks8ILGTNTb3mdqtY0RB0Kvai6jhvGUJo-cQg2icWLjyo-vPbmpXVbdZKTWJw6IwhdipwXZhJMO6631PTmoId69CQhZ7TQYeCiha13JYUDjHtpsg](https://l.facebook.com/l.php?u=https%3A%2F%2Fjawjawrakhaine.blogspot.com%2F%3Ffbclid%3DIwAR1Kpp74upSPEiKmRhcbNhi1fZ3zgOizmAlMOA219kPX2QoDF3nYY__OPpM&h=AT2grPnOMSeSd0Uks8ILGTNTb3mdqtY0RB0Kvai6jhvGUJo-cQg2icWLjyo-vPbmpXVbdZKTWJw6IwhdipwXZhJMO6631PTmoId69CQhZ7TQYeCiha13JYUDjHtpsg)
+- 📝 I regularly write articles on [FACEBOOK](https://l.facebook.com/l.php?u=https%3A%2F%2Fjawjawrakhaine.blogspot.com%2F%3Ffbclid%3DIwAR1Kpp74upSPEiKmRhcbNhi1fZ3zgOizmAlMOA219kPX2QoDF3nYY__OPpM&h=AT2grPnOMSeSd0Uks8ILGTNTb3mdqtY0RB0Kvai6jhvGUJo-cQg2icWLjyo-vPbmpXVbdZKTWJw6IwhdipwXZhJMO6631PTmoId69CQhZ7TQYeCiha13JYUDjHtpsg)
 
 - 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **jawjawrk246@gmail.com**
 
-- ⚡ Fun fact **I think I am a dirty man because I live in dirty places...HAHAHAHAHA**
+- ⚡ Fun fact **I don't know who am I?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
