@@ -15,21 +15,21 @@
 
 - 🤝 I’m looking for help with **Web Development**
 
-- 👨‍💻 All of my projects are available at [GITHUB] |(https://github.com/jawjawrakhaine)
+- 👨‍💻 All of my projects are available at [[Github](https://github.com/jawjawrakhaine)]([Github](https://github.com/jawjawrakhaine))
 
-- 📝 I regularly write articles on [Blog](https://l.facebook.com/l.php?u=https%3A%2F%2Fjawjawrakhaine.blogspot.com%2F%3Ffbclid%3DIwAR1Kpp74upSPEiKmRhcbNhi1fZ3zgOizmAlMOA219kPX2QoDF3nYY__OPpM&h=AT2grPnOMSeSd0Uks8ILGTNTb3mdqtY0RB0Kvai6jhvGUJo-cQg2icWLjyo-vPbmpXVbdZKTWJw6IwhdipwXZhJMO6631PTmoId69CQhZ7TQYeCiha13JYUDjHtpsg)
+- 📝 I regularly write articles on [[Blog](https://l.facebook.com/l.php?u=https%3A%2F%2Fjawjawrakhaine.blogspot.com%2F%3Ffbclid%3DIwAR1Kpp74upSPEiKmRhcbNhi1fZ3zgOizmAlMOA219kPX2QoDF3nYY__OPpM&h=AT2grPnOMSeSd0Uks8ILGTNTb3mdqtY0RB0Kvai6jhvGUJo-cQg2icWLjyo-vPbmpXVbdZKTWJw6IwhdipwXZhJMO6631PTmoId69CQhZ7TQYeCiha13JYUDjHtpsg)]([Blog](https://l.facebook.com/l.php?u=https%3A%2F%2Fjawjawrakhaine.blogspot.com%2F%3Ffbclid%3DIwAR1Kpp74upSPEiKmRhcbNhi1fZ3zgOizmAlMOA219kPX2QoDF3nYY__OPpM&h=AT2grPnOMSeSd0Uks8ILGTNTb3mdqtY0RB0Kvai6jhvGUJo-cQg2icWLjyo-vPbmpXVbdZKTWJw6IwhdipwXZhJMO6631PTmoId69CQhZ7TQYeCiha13JYUDjHtpsg))
 
 - 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **jawjawrk246@gmail.com**
 
-- ⚡ Fun fact **I don't know who am I?**
+- ⚡ Fun fact **I don't know Who am I?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jaw-jaw-rakhaine-25358514b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jaw-jaw-rakhaine-25358514b/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/jawjawrk.me/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/jawjawrk.me/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/infinity loop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="infinity loop" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/jawjawrk246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/jawjawrk246" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -40,5 +40,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jawjawrakhaine&show_icons=true&locale=en" alt="jawjawrakhaine" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jawjawrakhaine&" alt="jawjawrakhaine" /></p>
-
 
