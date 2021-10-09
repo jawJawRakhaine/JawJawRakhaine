@@ -1,6 +1,6 @@
 ### Here is what I'm working on! 👋
 
-<h1 align="center">Hi 👋, I'm **JAW JAW RAKHAINE**</h1>
+<h1 align="center">Hi 👋, I'm JAW JAW RAKHAINE</h1>
 <h3 align="center">A passionate frontend developer from BANGLADESH</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jawjawrakhaine&label=Profile%20views&color=0e75b6&style=flat" alt="jawjawrakhaine" /> </p>
@@ -19,9 +19,9 @@
 
 - 📝 I regularly write articles on [Blog](https://l.facebook.com/l.php?u=https%3A%2F%2Fjawjawrakhaine.blogspot.com%2F%3Ffbclid%3DIwAR1Kpp74upSPEiKmRhcbNhi1fZ3zgOizmAlMOA219kPX2QoDF3nYY__OPpM&h=AT2grPnOMSeSd0Uks8ILGTNTb3mdqtY0RB0Kvai6jhvGUJo-cQg2icWLjyo-vPbmpXVbdZKTWJw6IwhdipwXZhJMO6631PTmoId69CQhZ7TQYeCiha13JYUDjHtpsg)
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask **me** about **Web Development**
 
-- 📫 How to reach me **jawjawrk246@gmail.com**
+- 📫 How to reach **me** **jawjawrk246@gmail.com**
 
 - ⚡ Fun fact **I don't know Who am I?**
 
