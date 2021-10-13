@@ -13,9 +13,9 @@
 
 - 🤝 I’m looking for help with **Web Development**
 
-- 👨‍💻 All of my projects are available at ([Github](https://github.com/jawjawrakhaine))
+- 👨‍💻 All of my projects are available at [Github](https://github.com/jawjawrakhaine)
 
-- 📝 I regularly write articles on [[Blog](https://l.facebook.com/l.php?u=https%3A%2F%2Fjawjawrakhaine.blogspot.com%2F%3Ffbclid%3DIwAR1Kpp74upSPEiKmRhcbNhi1fZ3zgOizmAlMOA219kPX2QoDF3nYY__OPpM&h=AT2grPnOMSeSd0Uks8ILGTNTb3mdqtY0RB0Kvai6jhvGUJo-cQg2icWLjyo-vPbmpXVbdZKTWJw6IwhdipwXZhJMO6631PTmoId69CQhZ7TQYeCiha13JYUDjHtpsg)]([Blog]
+- 📝 I regularly write articles on [Blog](https://l.facebook.com/l.php?u=https%3A%2F%2Fjawjawrakhaine.blogspot.com%2F%3Ffbclid%3DIwAR1Kpp74upSPEiKmRhcbNhi1fZ3zgOizmAlMOA219kPX2QoDF3nYY__OPpM&h=AT2grPnOMSeSd0Uks8ILGTNTb3mdqtY0RB0Kvai6jhvGUJo-cQg2icWLjyo-vPbmpXVbdZKTWJw6IwhdipwXZhJMO6631PTmoId69CQhZ7TQYeCiha13JYUDjHtpsg)
 
 - 💬 Ask me about **Web Development**
 
